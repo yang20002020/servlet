@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [16/May/2023:00:02:00 +0800] "GET /servletDemo6 HTTP/1.1" 302 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [16/May/2023:00:02:00 +0800] "GET /servletDemo6/ HTTP/1.1" 500 3951 http-bio-8080-exec-8 5
+0:0:0:0:0:0:0:1 - - [16/May/2023:00:08:33 +0800] "GET /servletDemo6 HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [16/May/2023:00:08:33 +0800] "GET /servletDemo6/ HTTP/1.1" 500 3951 http-bio-8080-exec-2 64
+0:0:0:0:0:0:0:1 - - [16/May/2023:00:11:01 +0800] "GET /servletDemo6 HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [16/May/2023:00:11:01 +0800] "GET /servletDemo6/ HTTP/1.1" 500 3951 http-bio-8080-exec-2 47

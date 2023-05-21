@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="servletDemo1_1" />
+        <module name="servletDemo9" />
+        <module name="servletDemo8" />
+        <module name="servletDemo3" />
+        <module name="servletDemo11" />
+        <module name="servletDemo2" />
+        <module name="servletDemo12" />
+        <module name="servletDemo1" />
+        <module name="servletDemo14" />
+        <module name="servletDemo7" />
+        <module name="servletDemo15" />
+        <module name="servletDemo6" />
+        <module name="servletDemo16" />
+        <module name="servletDemo5" />
+        <module name="servletDemo17" />
+        <module name="servletDemo4" />
+        <module name="servletDemo10" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="serletDemo1_1" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [17/May/2023:20:29:09 +0800] "GET /servletDemo8 HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [17/May/2023:20:29:10 +0800] "GET /servletDemo8/ HTTP/1.1" 200 52 http-bio-8080-exec-3 1452
+0:0:0:0:0:0:0:1 - - [17/May/2023:20:29:20 +0800] "GET /servletDemo8/demo1 HTTP/1.1" 405 1065 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [17/May/2023:20:53:29 +0800] "GET /servletDemo8/demo1 HTTP/1.1" 405 1065 http-bio-8080-exec-1 47
+0:0:0:0:0:0:0:1 - - [17/May/2023:21:29:42 +0800] "GET /servletDemo8 HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [17/May/2023:21:29:42 +0800] "GET /servletDemo8/ HTTP/1.1" 200 52 http-bio-8080-exec-2 63
+0:0:0:0:0:0:0:1 - - [17/May/2023:21:29:58 +0800] "GET /servletDemo8/demo1 HTTP/1.1" 405 1065 http-bio-8080-exec-3 3

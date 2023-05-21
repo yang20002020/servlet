@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/serletDemo1_1" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo1" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo10" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo11" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo12" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo14" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo15" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo16" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo17" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo1_1" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo2" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo3" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo4" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo5" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo6" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo7" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo8" />
+    <file type="web" url="file://$PROJECT_DIR$/servletDemo9" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/servletDemo1/pom.xml" />
+        <option value="$PROJECT_DIR$/servletDemo2/pom.xml" />
+        <option value="$PROJECT_DIR$/servletDemo3/pom.xml" />
+        <option value="$PROJECT_DIR$/servletDemo4/pom.xml" />
+        <option value="$PROJECT_DIR$/servletDemo5/pom.xml" />
+        <option value="$PROJECT_DIR$/servletDemo1_1/pom.xml" />
+        <option value="$PROJECT_DIR$/servletDemo6/pom.xml" />
+        <option value="$PROJECT_DIR$/servletDemo7/pom.xml" />
+        <option value="$PROJECT_DIR$/servletDemo8/pom.xml" />
+        <option value="$PROJECT_DIR$/servletDemo9/pom.xml" />
+        <option value="$PROJECT_DIR$/servletDemo10/pom.xml" />
+        <option value="$PROJECT_DIR$/servletDemo11/pom.xml" />
+        <option value="$PROJECT_DIR$/servletDemo12/pom.xml" />
+        <option value="$PROJECT_DIR$/servletDemo14/pom.xml" />
+        <option value="$PROJECT_DIR$/servletDemo15/pom.xml" />
+        <option value="$PROJECT_DIR$/servletDemo16/pom.xml" />
+        <option value="$PROJECT_DIR$/servletDemo17/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" project-jdk-name="18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

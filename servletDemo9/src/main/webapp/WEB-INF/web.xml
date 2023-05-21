@@ -1,0 +1,14 @@
+
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <!--全局初始化参数的配置：-->
+  <context-param>
+    <param-name>username</param-name>
+    <param-value>yangzhang</param-value>
+  </context-param>
+  <context-param>
+    <param-name>password</param-name>
+    <param-value>yangzhang123</param-value>
+  </context-param>
+</web-app>
